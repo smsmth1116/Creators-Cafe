@@ -15,7 +15,8 @@ COGS_EXTENSIONS = [
     "cogs.analyze",
     "cogs.server_log",
     "cogs.voice_log",
-    "cogs.voice_notify"
+    "cogs.voice_notify",
+    "cogs.spam_guard"
 ]
 
 intents = discord.Intents.all()
